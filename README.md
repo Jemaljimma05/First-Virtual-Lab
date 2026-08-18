@@ -1,5 +1,7 @@
-Installed Virtual Box and the Ubuntu Virtual Machine, set specs to 8GB of RAM, and 4 CPUs
-The Ubuntu Packaging tool "apt", handled the installation of Git
-Generated an Ed25519 SSH Cryptographic Key within the Ubuntu Terminal, bypassing the need for standard login passwords
-Installed Ollama
-Configured the Modelfile
+Installed Virtual Box and the Ubuntu Virtual Machine, set specs to 8GB of RAM, and 4 CPUs.
+The Ubuntu Packaging tool "apt", handled the installation of Git.
+Generated an Ed25519 SSH Cryptographic Key within the Ubuntu Terminal, bypassing the need for standard login passwords.
+Installed Ollama.
+Configured the Modelfile.
+Installed Docker.
+Configured and Launched a Bridge to local Ollama instance to Groq's cloud APIs for to eliminate strain on CPU cores.
