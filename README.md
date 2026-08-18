@@ -5,3 +5,4 @@ Installed Ollama.
 Configured the Modelfile.
 Installed Docker.
 Configured and Launched a Bridge to local Ollama instance to Groq's cloud APIs for to eliminate strain on CPU cores.
+Docker was unsuitable so Python was installed
