@@ -4,3 +4,4 @@ Generated an Ed25519 SSH Cryptographic Key within the Ubuntu Terminal, bypassing
 Installed Ollama.
 Configured the Modelfile.
 Installed Docker.
+Configured and Launched a Bridge to local Ollama instance to Groq's cloud APIs for to eliminate strain on CPU cores.
